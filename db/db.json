@@ -1,0 +1,180 @@
+{
+  "restaurants": [
+    {
+      "name": "Balaji Products",
+      "Email": "balaji@test.com",
+      "Address": "Mirzapur sector 22",
+      "id": 1
+    },
+    {
+      "name": "Subway",
+      "Email": "subway@test.com",
+      "Address": "Dapoli",
+      "id": 3
+    },
+    {
+      "name": "KFC 1",
+      "Email": "kfc@gmail.com",
+      "Address": "Churchgate",
+      "id": 5
+    },
+    {
+      "name": "Raj Sweets",
+      "Email": "mandavkarraj7@gmail.com",
+      "Address": "Virar,East",
+      "id": 10
+    },
+    {
+      "name": "Balaji Products",
+      "Email": "balaji@test.com",
+      "Address": "Mirzapur sector 22",
+      "id": 12
+    },
+    {
+      "name": "Burger King",
+      "Email": "kfc@test.com",
+      "Address": "Mumbai",
+      "id": 15
+    },
+    {
+      "name": "KGF restaurant",
+      "Email": "kgf@999",
+      "Address": "Nagpur",
+      "id": 17
+    },
+    {
+      "name": "Pizza Hunt",
+      "Email": "pizza@test.com",
+      "Address": "virar",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "data": {
+        "name": "AK Sweets",
+        "Email": "AK47@test.com",
+        "Password": "ak47",
+        "gender": ""
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "name": "Sandy restaurant",
+        "Email": "sandy@test.com",
+        "Password": "sandy@123",
+        "gender": ""
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "Raj Sweets",
+        "Email": "mandavkarraj7@gmail.com",
+        "Password": "AAASASsaAaaa",
+        "gender": "Male"
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "name": "",
+        "Email": "",
+        "Password": "",
+        "gender": ""
+      },
+      "id": 4
+    },
+    {
+      "data": {
+        "name": "pratik chande",
+        "Email": "balaji@test.com",
+        "Password": "ppppppppp",
+        "gender": "Male"
+      },
+      "id": 5
+    },
+    {
+      "data": {
+        "name": "",
+        "Email": "",
+        "Password": "",
+        "gender": ""
+      },
+      "id": 6
+    },
+    {
+      "data": {
+        "name": "",
+        "Email": "",
+        "Password": "",
+        "gender": ""
+      },
+      "id": 7
+    },
+    {
+      "data": {
+        "name": "",
+        "Email": "",
+        "Password": "",
+        "gender": ""
+      },
+      "id": 8
+    },
+    {
+      "data": {
+        "name": "rajsadsads",
+        "Email": "sdfdaf",
+        "Password": "dfdfdf",
+        "gender": ""
+      },
+      "id": 9
+    },
+    {
+      "data": {
+        "name": "rajsadsads",
+        "Email": "sdfdaf",
+        "Password": "dfdfdf",
+        "gender": ""
+      },
+      "id": 10
+    },
+    {
+      "data": {
+        "name": "",
+        "Email": "",
+        "Password": "",
+        "gender": ""
+      },
+      "id": 11
+    },
+    {
+      "data": {
+        "name": "Raj",
+        "Email": "mandavkarraj7@123",
+        "Password": "Rajmanda",
+        "gender": "Male"
+      },
+      "id": 12
+    },
+    {
+      "data": {
+        "name": "",
+        "Email": "",
+        "Password": "",
+        "gender": ""
+      },
+      "id": 13
+    },
+    {
+      "data": {
+        "name": "",
+        "Email": "",
+        "Password": "",
+        "gender": ""
+      },
+      "id": 14
+    }
+  ]
+}

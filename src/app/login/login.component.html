@@ -1,0 +1,21 @@
+<h1 class="">login Form</h1>
+
+<form [formGroup]= "loginResto">
+      <div class="div">
+        <div class="form-row form-group col-md-6">
+            <div class="col">
+                 Name <input type="text" class="form-control" formControlName="name" name="name" placeholder="Enter Name">
+                 <span class="span" *ngIf="user && user.invalid && user.touched">Please enter name..!</span>
+            </div>
+        </div>
+        
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">Create Password</label>
+                <input type="password" class="form-control" id="inputPassword4" formControlName="Password"  name="password" placeholder="Password">
+                <span class="span" *ngIf="pass && pass.touched && pass.invalid">Enter password..!</span>
+            </div>
+        </div>
+        <br>
+        <button [disabled]="loginResto.invalid" type="submit" class="btn btn-primary">SignUp</button>
+    
+  </form>
